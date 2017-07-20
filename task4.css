@@ -70,6 +70,7 @@ img{
     width:100%;
     outline: none;
     text-indent: 1.5em;
+    overflow:hidden;
 }
 .btn{
     background-color: rgb(95,192,205);
